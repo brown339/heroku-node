@@ -1,0 +1,23 @@
+{
+  "name": "heroku-node",
+  "version": "1.0.0",
+  "description": "Boilerplate for a heroku node project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brown339/heroku-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brown339/heroku-node/issues"
+  },
+  "homepage": "https://github.com/brown339/heroku-node#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
